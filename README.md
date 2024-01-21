@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marbac74 (Marco)
 - 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning Python (deepening and refreshing Prolog)
+- 🌱 I’m currently learning Python & R (deepening and refreshing Prolog)
 - 💞️ I’m looking to collaborate on anything dealing with the mentioned matters
 - 📫 How to reach me marbac74@hotmail.com
 
