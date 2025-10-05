@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marbac74 (Marco)
-- 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning Python & R (deepening and refreshing Prolog)
-- 💞️ I’m looking to collaborate on anything dealing with the mentioned matters
+- 👀 I’m interested in Linguistics & Natural Language Processing
+- 🌱 I’m currently learning 6510 CPUs Assembly Language
+- 💞️ I'll probably share some exercises and other files from some books and tutorials I'm following on the subject
 - 📫 How to reach me marbac74@hotmail.com
 
 <!---
